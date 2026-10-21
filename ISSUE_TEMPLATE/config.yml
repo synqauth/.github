@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Synq docs"
+    url: "https://docs.synq.build"
+    about: "Guides and reference for the API, the hosted sign-in and the @synqauth SDKs."
+  - name: "Synq"
+    url: "https://synq.build"
+    about: "Plans, your dashboard and how to reach us."
+  - name: "Report a security problem"
+    url: "https://github.com/synqauth/.github/blob/main/SECURITY.md"
+    about: "Privately, never in a public issue."
